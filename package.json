@@ -1,0 +1,14 @@
+{
+  "name": "hiroku_server",
+  "version": "1.0.0",
+  "description": "hiruku_server",
+  "main": "server.js",
+  "scripts": {
+    "test": "npm run server"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
